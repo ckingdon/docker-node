@@ -1,6 +1,6 @@
 # docker-node
 
-This is the web app from this [Docker tutorial](https://youtu.be/pg19Z8LL06w) video.
+This is the web app from this [Docker tutorial](https://youtu.be/pg19Z8LL06w) video (from TechWorld with Nana).
 
 My cursory notes are below ...
 
