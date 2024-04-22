@@ -1,6 +1,6 @@
 # docker-node
 
-This is the web app from this [Docker tutorial](https://youtu.be/pg19Z8LL06w).
+This is the web app from this [Docker tutorial](https://youtu.be/pg19Z8LL06w) video.
 
 My cursory notes are below ...
 
@@ -43,7 +43,7 @@ If you don't specify a name then docker assigns an arbitrary name
 ## Details about images: 
 Show currently-installed images.
 ```
-docker image
+docker images
 ```
 
 Show currently-running images.
@@ -96,8 +96,8 @@ docker run --name web-app -d -p 9000:80 nginx:1.24
 * registry vs repository: Amazon ECR is a registry that holds multiple docker repositories
 * Docker Hub registry hosts public or private repositories
 
-## Create your own custom docker image: dockerfile
-Dockerfile is definition of how to build and image from our application: 
+## Create your own custom docker image: Dockerfile
+`Dockerfile` is definition of how to build and image from our application: 
 
 ## Web-app Example
 Dockerfile directives
