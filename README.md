@@ -1,4 +1,4 @@
-# docker-node
+# docker-node-demo
 
 This is the web app from this [Docker tutorial](https://youtu.be/pg19Z8LL06w) video (from TechWorld with Nana).
 
