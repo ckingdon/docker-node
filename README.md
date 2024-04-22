@@ -1,6 +1,6 @@
 # docker-node
 
-This is the web app from the [Docker Crash Course for Absolute Beginners](https://youtu.be/pg19Z8LL06w) tutorial.
+This is the web app from this [Docker tutorial](https://youtu.be/pg19Z8LL06w).
 
 My cursory notes are below ...
 
