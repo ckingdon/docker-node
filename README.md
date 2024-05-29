@@ -11,6 +11,8 @@ My cursory notes are below ...
 
 ## Install docker: 
 * get from docker website, install .deb
+* or, probably better to use apt and install Ubuntu native docker-io package
+* see [this StackOverflow answer](https://stackoverflow.com/questions/45023363/what-is-docker-io-in-relation-to-docker-ce-and-docker-ee-now-called-mirantis-k/57678382#57678382) for reasons why
 
 ## Where to get images: dockerhub
 * online spot for downloading verified docker images
@@ -29,7 +31,7 @@ docker pull nginx (gets latest)
 ```
 
 ## Run an image
-Run in job in foreground.
+Run job in foreground.
 ```
 docker run nginx:1.24
 ```
