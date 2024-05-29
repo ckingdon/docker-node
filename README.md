@@ -1,6 +1,6 @@
 # docker-node-demo
 
-This is the web app from this [Docker tutorial](https://youtu.be/pg19Z8LL06w) video (from TechWorld with Nana).
+This is the web app from this [Docker tutorial](https://youtu.be/pg19Z8LL06w) video (from TechWorld with Nana). I created this repo as I worked along with the video, but this is the [docker-in-1-hour repo](https://gitlab.com/nanuchi/docker-in-1-hour) that is provided in the video's description.
 
 My cursory notes are below ...
 
